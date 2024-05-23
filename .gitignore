@@ -1,0 +1,5 @@
+# no include bd node_modules
+backend/node_modules/
+
+# no include front node_modules
+frontend/my-app/node_modules/
